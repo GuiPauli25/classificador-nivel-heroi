@@ -1,12 +1,8 @@
 //Nome do herói.
-let nickName = "Pauli";
+let nickName = "Jorel";
 
-//Calculo vitorias e derrotas.
-let xpCount = balance(8000, 2500);
-
-function balance(vitorias, derrotas) {
-    return vitorias - derrotas
-};
+//Variável de XP.
+let xpCount = 7000;
 
 // Calculo XP/Level.
 let rankings = [
